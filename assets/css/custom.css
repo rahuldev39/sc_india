@@ -1,0 +1,21 @@
+.top-entry{
+  margin-top: 25px;
+}
+.heading-block {
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f1f1f1;
+}
+.heading-block h3 {
+    display: inline-block;
+    border-bottom: 3px solid #e74c3c;
+    padding-bottom: 8px;
+    margin-bottom: -3px;
+}
+.top-entry .entry .entry-title {
+    font-size: 13px;
+}
+.entry-list-item {
+    margin-bottom: 26px;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 10px;
+}
