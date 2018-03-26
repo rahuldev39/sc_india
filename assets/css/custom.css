@@ -19,3 +19,49 @@
     border-bottom: 1px solid #eaeaea;
     padding-bottom: 10px;
 }
+.listing-conrainer{
+
+}
+.listing-conrainer ul {
+
+}
+.listing-conrainer ul li {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 15px;
+}
+.listing-conrainer ul li a {
+    color: #313131;
+}
+.listing-conrainer ul li a .label {
+
+}
+.date-text {
+    display: block;
+    color: #313131;
+    font-weight: 600;
+    font-size: 12px;
+    margin-top: 6px;
+}
+.labelLN {
+    background-color: rgb(231, 76, 60);
+}
+.labelCIR {
+    background-color: rgb(49, 49, 49);
+}
+.labelLU {
+    background-color: rgb(51, 122, 183);
+}
+.flag-container {
+    float: right;
+    margin: 14px 0px;
+}
+
+.flag-container img{
+
+}
+@media (max-width: 992px) {
+  .flag-container {
+    display: none;
+}
+}

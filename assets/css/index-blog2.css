@@ -25,8 +25,8 @@ h1, h2, h3, h4, h5, h6,
 
 @media (min-width: 992px) {
   .entry.entry-list {
-    margin-bottom: 60px;
-  }
+    margin-bottom: 36px;
+}
 }
 
 .featured-entry-slider {
@@ -36,8 +36,8 @@ h1, h2, h3, h4, h5, h6,
 
 @media (min-width: 768px) {
   .featured-entry-slider {
-    margin: 45px 0 50px;
-  }
+    margin: 20px 0 50px;
+}
 }
 
 @media (min-width: 992px) {
